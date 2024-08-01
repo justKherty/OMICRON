@@ -4,8 +4,8 @@
 Portions of this software are licensed as follows:
 
 - Content of branches other than the main branch (i.e. "master") are not licensed.
-- Source code files that contain ".ee." in their filename are NOT licensed under the IDS Sustainable Use License.
-  To use source code files that contain ".ids." in their filename you must hold a valid authorization from IDS to do so.
+- Source code files that contain ".ids." or ".module." in their filename are NOT licensed under the IDS Sustainable Use License.
+  To use source code files that contain ".ids." or ".module." in their filename you must hold a valid authorization from IDS to do so.
 - All third party components incorporated into the n8n Software are licensed under the original license
   provided by the owner of the applicable component.
 - Content outside of the above mentioned files or restrictions is available under the "Sustainable Use
